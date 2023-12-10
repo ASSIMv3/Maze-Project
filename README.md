@@ -8,7 +8,7 @@ The 3D ray casting game is inspired by classic first-person shooter games and se
 
 ### Final Project Blog Article
 
-Read our final project blog article [here](#) [Provide the link to your blog article].
+Read our final project blog article [here](#) [link].
 
 ## Features
 
@@ -46,7 +46,8 @@ Run the main script to start the game:
 
 ```bash
 python main.py
+```
 
-### Authors
+## Authors
 
 - [Hassan Assim](#) [https://github.com/ASSIMv3]
