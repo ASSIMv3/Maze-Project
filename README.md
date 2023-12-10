@@ -6,6 +6,10 @@ This project is a 3D ray casting game implemented in Python using the Pygame lib
 
 The 3D ray casting game is inspired by classic first-person shooter games and serves as a simple demonstration of ray casting techniques to create a pseudo-3D effect. The project is organized into modular components, providing clarity and ease of maintenance.
 
+### Final Project Blog Article
+
+Read our final project blog article [here](#) [Provide the link to your blog article].
+
 ## Features
 
 - First-person perspective navigation.
@@ -26,9 +30,23 @@ The 3D ray casting game is inspired by classic first-person shooter games and se
     git clone https://github.com/ASSIMv3/Maze-Project.git
     ```
 
- Usage
+2. **Navigate to the project directory:**
+    ```bash
+    cd Maze-Project
+    ```
+
+3. **Install dependencies:**
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
 
 Run the main script to start the game:
 
 ```bash
 python main.py
+
+### Authors
+
+- [Hassan Assim](#) [https://github.com/ASSIMv3]
