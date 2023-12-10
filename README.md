@@ -6,7 +6,7 @@ This project is a 3D ray casting game implemented in Python using the Pygame lib
 
 The 3D ray casting game is inspired by classic first-person shooter games and serves as a simple demonstration of ray casting techniques to create a pseudo-3D effect. The project is organized into modular components, providing clarity and ease of maintenance.
 
-### Final Project Blog Article
+## Final Project Blog Article
 
 Read our final project blog article [here](#) [link].
 
